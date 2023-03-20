@@ -1,2 +1,2 @@
 # KABC
-  % \item 业务分析：根据信用风险管理业务需要，设计数据诊断和样本筛选规范，通过Vintage分析建立指标体系
+  Knowledge about Artificial Bee Colony (ABC)
